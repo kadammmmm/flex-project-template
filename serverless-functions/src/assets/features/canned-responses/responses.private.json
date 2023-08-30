@@ -1,6 +1,23 @@
 {
   "categories": [
     {
+      "section": "County",
+      "responses": [
+        {
+          "label": "Confirmation",
+          "text": "I'm sorry to inform you that {insert name} has passed away."
+        },
+		{
+          "label": "Death Certificate",
+          "text": "If you need assistance with Death Certificates, please contact Maricopa County Office of Vital Registration at 602-506-6805."
+        },
+        {
+          "label": "Incorrect Phone Number",
+          "text": "Sorry for the inconvenience.  Thank you for confirming this number no longer belongs to this the prior individual."
+        }
+      ]
+    },
+    {
       "section": "Sales",
       "responses": [
         {
